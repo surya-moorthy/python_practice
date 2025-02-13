@@ -1,0 +1,1 @@
+the dir contains learnings of data science , not from the scratch but the requirements
